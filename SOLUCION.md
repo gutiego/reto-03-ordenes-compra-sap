@@ -163,7 +163,7 @@ Lo que el agente aporta hoy es **medición**: cada intento queda en `out/control
 | HU-5 Crear en SAP simulado | Hecho | Idempotencia, numeración y `control.csv`. Falta: el adaptador OData real (§6). |
 | HU-6 Errores | Hecho | `{ ok:false, error }` legible para caso inexistente, JSON corrupto, monto no numérico y argumentos inválidos. |
 | Front / API / ciclo | Hecho | Las tool calls son visibles y la confirmación se resalta. Sin streaming. |
-| Link público | Pendiente | |
+| Link público | Hecho | https://reto-03-ordenes-compra-sap.onrender.com (Render, plan gratuito). |
 | Bonus `modulo/` | Hecho | Se regenera desde las mismas fuentes (`npm run modulo`). |
 
 ## 11. Uso de IA

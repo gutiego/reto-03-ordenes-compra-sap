@@ -75,7 +75,7 @@ curl -s -X POST localhost:3000/api/chat -H "Content-Type: application/json" \
 
 ## Link de prueba
 
-Pendiente.
+https://reto-03-ordenes-compra-sap.onrender.com (plan gratuito de Render: la primera visita puede tardar 30–60 s en despertar)
 
 ## Módulo reutilizable (bonus)
 
